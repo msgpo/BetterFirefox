@@ -3,6 +3,7 @@
 The goal of this project is to create an community based wish-list (which of course also can be used as an communication platform) to get Firefox again on the right course. Mozilla could pick-up this to 'improve' the product, it's up to them to work with 'us' or not.
 
 [![Build Status](https://travis-ci.org/CHEF-KOCH/BetterFireFox.svg?branch=master)](https://travis-ci.org/BetterFireFox)
+[![Gitter](https://badges.gitter.im/CHEF-KOCH/BetterFireFox.svg)](https://gitter.im/CHEF-KOCH/BetterFireFox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
 ## Contents
