@@ -30,7 +30,7 @@ See our [contributing policy](CONTRIBUTING.md).
 * Multi-Process + Sandboxed Firefox still unfinished and bugged (promised to be included in FF 46 but not done because 'bugs' how many years we need more?)
 * WebExtensions will replace Firefox’s powerful extension framework (why not add a workaround for both?)
 * Firefox needs a distinct identity
-* The default search-engine is horrible (why not duckduckgo?)
+* The default search-engine is horrible (why not DuckDuckGo?)
 * No ability to sync all about:config tweaks (you need extra opt-in in that)
 * Ability to reset about:config related changes on per-app/extension basis 
 * Increase the security and adapt faster changes, especially to known reported issue like certificate frauds
@@ -39,7 +39,7 @@ See our [contributing policy](CONTRIBUTING.md).
 * Why use Firefox over Chrome? Mozilla would probably argue that Firefox is unique because it’s made by a non-profit company dedicated to making the web better, rather than big for-profit corporations that do more things like its competitors. It also uses Gecko, a different rendering engine, which hopefully helps preserve web standards through a variety of implementations. But is that really enough?
 * Exclude any DRM (Codecs, Encrypted Media Extensions, ...) or make it integrated opt-in for people which really need it, ESR is the wrong way, make ONE Browser for all
 * Give us back the control over the Browser and keep it clean and slim as much as possible (also less ram usage then)
-* Kill known insecure stuff a lot of faster, let Adobe/Java die once and for all ... no need to add workarounds ... it's waste of time to think that you can 'by-design' insecure things harden ...
+* Kill [known insecure](https://www.mozilla.org/en-US/security/known-vulnerabilities/) stuff a lot of faster, let Adobe/Java die once and for all ... no need to add workarounds ... it's waste of time to think that you can 'by-design' insecure things harden ...
 * Bloat like Pocket has been added. To our knowledge, this is a third-party extension that has been added and uses non-Mozilla servers to store data. Things like this should be left as extensions.
 * Google's 'safebrowsing' mechanism is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
 * NoScript / uMatrix or uBlock's function could be adopted or ask/work directly with the developers to implement it directly since all of the extensions are today 'a must'. Tor Browser showed how it could look, with security sliders and options for 'advance users'.
