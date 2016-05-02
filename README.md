@@ -15,15 +15,6 @@ The goal of this project is to create an community based wish-list (which of cou
     - User based wish-list and what Firefox should improve
 
 
-## Contributions
-
-If you have anything to fix or details to add, first [file an issue](https://github.com/CHEF-KOCH/BetterFireFox/issues) on GitHub to see if it is likely to be accepted, then file a pull request with your change (one PR per issue).
-
-This is not intended to be an open wiki (more overview page), 'we' (the community) want to keep it concise and minimal but will accept fixes and suitable additions.
-
-See our [contributing policy](CONTRIBUTING.md).
-
-
 ## What is wrong with Firefox?
 
 * Firefox is about to become an almost complete copy of Chrome (we not need another fork of it!)
@@ -43,6 +34,16 @@ See our [contributing policy](CONTRIBUTING.md).
 * Bloat like Pocket has been added. To our knowledge, this is a third-party extension that has been added and uses non-Mozilla servers to store data. Things like this should be left as extensions.
 * Google's 'safebrowsing' mechanism is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
 * NoScript / uMatrix or uBlock's function could be adopted or ask/work directly with the developers to implement it directly since all of the extensions are today 'a must'. Tor Browser showed how it could look, with security sliders and options for 'advance users'.
+
+
+## Contributions
+
+If you have anything to fix or details to add, first [file an issue](https://github.com/CHEF-KOCH/BetterFireFox/issues) on GitHub to see if it is likely to be accepted, then file a pull request with your change (one PR per issue).
+
+This is not intended to be an open wiki (more overview page), 'we' (the community) want to keep it concise and minimal but will accept fixes and suitable additions.
+
+See our [contributing policy](CONTRIBUTING.md).
+
 
 
 ## License
