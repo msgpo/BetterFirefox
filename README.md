@@ -41,7 +41,7 @@ See our [contributing policy](CONTRIBUTING.md).
 * Give us back the control over the Browser and keep it clean and slim as much as possible (also less ram usage then)
 * Kill known insecure stuff a lot of faster, let Adobe/Java die once and for all ... no need to add workarounds ... it's waste of time to think that you can 'by-design' insecure things harden ...
 * Bloat like Pocket has been added. To our knowledge, this is a third-party extension that has been added and uses non-Mozilla servers to store data. Things like this should be left as extensions.
-* Google safebrowsing is by default enabled, let the user decide to use it or not. each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
+* Google safebrowsing is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
 
 
 ## License
