@@ -1,4 +1,4 @@
-# BetterFireFox
+# BetterFirefox
 
 The goal of this project is to create a community based wish-list (which can also be used as a communication platform) to get Firefox again on the right course. Mozilla could use this to ***improve' the product***; it is up to them to work with us or not.
 
@@ -11,7 +11,7 @@ The goal of this project is to create a community based wish-list (which can als
 - Overview and goal (this page)
     - Gh-Github page and overview
 - [Why you should use Firefox?](Why Firefox.md)
-    - Short explanation for beginners why you should give FireFox a try
+    - Short explanation for beginners why you should give Firefox a try
 - Wish-list (todo)
     - User based wish-list of how Firefox should improve
 
@@ -28,14 +28,14 @@ The goal of this project is to create a community based wish-list (which can als
 * Give us back the control over the browser and keep it clean and slim as much as possible (also less RAM usage then)
 * Give us a setup which allow us to opt-in only the stuff we want and not pre-install anything (like the 'Hello' and 'Pockets' clients)
 * Bloat like Pocket has been added. To our knowledge, this is a third-party extension that has been added and uses non-Mozilla servers to store data. Things like this should be left as extensions.
-* Exclude any DRM (Codecs, Encrypted Media Extensions, ...), or make it integrated opt-in for people which really need it; ESR is the wrong way, make ONE Browser for all
+* Exclude any DRM (Codecs, Encrypted Media Extensions, etc.), or make it integrated opt-in for people which really need it; ESR is the wrong way, make ONE Browser for all
 * Google's 'safebrowsing' mechanism is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
 * Google's 'safebrowsing' mechanism creates cookies on everyone's system.  Mozilla claims these cookies are separate, but the UI makes no indication of this.
 * No ability to sync all about:config tweaks (you need extra opt-in for that)
 * Ability to reset about:config related changes on per-app/extension basis 
 * Increase the security and adapt faster changes, especially to known reported issue like certificate frauds
 * Kill [known insecure](https://www.mozilla.org/en-US/security/known-vulnerabilities/) stuff a lot of faster, let Adobe/Java die once and for all ... no need to add workarounds ... it's waste of time to think that you can 'by-design' insecure things harden ...
-* NoScript / uMatrix or uBlock's function could be adopted or ask/work directly with the developers to implement it directly since all of the extensions are today 'a must'. Tor Browser showed how it could look, with security sliders and options for 'advance users'.
+* NoScript / uMatrix or uBlock's function could be adopted (or ask/work directly with the developers) to implement it directly since all of the extensions are today 'a must'. Tor Browser showed how it could look, with security sliders and options for 'advanced users'.
 * Firefox now stores site data in a `storage` folder in the profile, yet has no way for the user to delete this data.  Never store data across sessions without having functionality for the user to delete this data.
 
 
