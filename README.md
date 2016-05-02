@@ -8,11 +8,11 @@ The goal of this project is to create an community based wish-list (which of cou
 ## Contents
 
 - [Overview and goal](README.md)
-    - place holder
+    - Gh-Github page and overview
 - [Why you should use Firefox?](Why Firefox.md)
-    - Short explanation for beginners why you should FireFox a try
+    - Short explanation for beginners why you should give FireFox a try
 - [Wish-list](wishlist/README.md)
-    - place holder 
+    - User based wish-list and what Firefox should improve
 
 
 ## Contributions
