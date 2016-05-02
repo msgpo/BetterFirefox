@@ -37,6 +37,7 @@ The goal of this project is to create a community based wish-list (which can als
 * Kill [known insecure](https://www.mozilla.org/en-US/security/known-vulnerabilities/) stuff a lot of faster, let Adobe/Java die once and for all ... no need to add workarounds ... it's waste of time to think that you can 'by-design' insecure things harden ...
 * NoScript / uMatrix or uBlock's function could be adopted (or ask/work directly with the developers) to implement it directly since all of the extensions are today 'a must'. Tor Browser showed how it could look, with security sliders and options for 'advanced users'.
 * Firefox now stores site data in a `storage` folder in the profile, yet has no way for the user to delete this data.  Never store data across sessions without having functionality for the user to delete this data.
+* Unlike competing browsers, the [64-bit version of Firefox uses *massively* more RAM than the 32-bit version](http://www.ghacks.net/2016/01/03/32-bit-vs-64-bit-browsers-which-version-has-the-edge/).  Fix this.
 
 
 ## Contributions
