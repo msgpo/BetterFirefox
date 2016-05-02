@@ -37,8 +37,9 @@ See our [contributing policy](CONTRIBUTING.md).
 * Give us an Setup which allow us to opt-in only the stuff we want and not pre-install anything (like the 'Hello' client)
 * Don't kill the engine or the theming ability
 * Why use Firefox over Chrome? Mozilla would probably argue that Firefox is unique because it’s made by a non-profit company dedicated to making the web better, rather than big for-profit corporations that do more things like its competitors. It also uses Gecko, a different rendering engine, which hopefully helps preserve web standards through a variety of implementations. But is that really enough?
-* Exclude any DRM (codecs,..) or make it integrated opt-in for people which really need it 
+* Exclude any DRM (codecs, Encrypted Media Extensions, ...) or make it integrated opt-in for people which really need it, ESR is the wrong way, make ONE Browser for all
 * Give the people back the control what they want and keep the browser clean and slim as much as possible (also less ram usage then)
+* 
 
 
 ## License
