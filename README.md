@@ -1,6 +1,6 @@
 # BetterFirefox
 
-The goal of this project is to create a community based wish-list (which can also be used as a communication platform) to get Firefox again on the right course. Mozilla could use this to ***improve' the product***; it is up to them to work with us or not.
+The goal of this project is to create a community based wish-list (which can also be used as a communication platform) to get Firefox again on the right course. Mozilla could use this to ***improve the product***; it is up to them to work with us or not.
 
 [![Build Status](https://travis-ci.org/CHEF-KOCH/BetterFireFox.svg?branch=master)](https://travis-ci.org/BetterFireFox)
 [![Gitter](https://badges.gitter.im/CHEF-KOCH/BetterFireFox.svg)](https://gitter.im/CHEF-KOCH/BetterFireFox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -46,7 +46,6 @@ If you have anything to fix or details to add, first [file an issue](https://git
 This is not intended to be an open wiki (more overview page), 'we' (the community) want to keep it concise and minimal but will accept fixes and suitable additions.
 
 See our [contributing policy](CONTRIBUTING.md).
-
 
 
 ## License
