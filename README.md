@@ -1,4 +1,4 @@
-# BetterFireFox Documentation
+# BetterFireFox
 
 The goal of this project is to create an community based wish-list (which of course also can be used as an communication platform) to get Firefox again on the right course. 
 
@@ -29,3 +29,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 [![Creative Commons Attribution-ShareAlike 4.0 International](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
+This project not is an official Mozilla page or stands into any relationship of it it's designed for and with the community.
