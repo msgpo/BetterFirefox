@@ -3,7 +3,7 @@
 The goal of this project is to create an community based wish-list (which of course also can be used as an communication platform) to get Firefox again on the right course. Mozilla could pick-up this to 'improve' the product, it's up to them to work with 'us' or not.
 
 [![Build Status](https://travis-ci.org/BetterFireFox.svg?branch=master)](https://travis-ci.org/BetterFireFox)
-
+[![Software License](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE.txt)
 
 ## Contents
 
