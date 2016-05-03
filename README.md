@@ -22,7 +22,7 @@ The goal of this project is to create a community based wish-list (which can als
 * Why use Firefox over Chrome? Mozilla would probably argue that Firefox is unique because it’s made by a non-profit company dedicated to making the web better, rather than big for-profit corporations with their own agendas. It also uses Gecko, a different rendering engine, which hopefully helps preserve web standards through a variety of implementations. But is that really enough?
 * Multi-Process + Sandboxed Firefox still unfinished and buggy (previously promised to be included in FF 46, but not done because of 'bugs' -- how many years more do we need to wait?)
 * Firefox needs a distinct identity
-* Don't kill the engine or the theming ability
+* Don't kill the engine or the theming ability it's fine how it is
 * WebExtensions will replace Firefox’s powerful extension framework (why not add a workaround for both?)
 * The default search-engine is horrible and (if Google) is actually based on a competitor, also a web browser maker [ [that actually pays for its inclusion](https://duckduckgo.com/?q=mozilla+search+engine+money) ] (Why not DuckDuckGo?)
 * Give us back the control over the browser and keep it clean and slim as much as possible (also less RAM usage then)
@@ -38,6 +38,24 @@ The goal of this project is to create a community based wish-list (which can als
 * NoScript / uMatrix or uBlock's function could be adopted (or ask/work directly with the developers) to implement it directly since all of the extensions are today 'a must'. Tor Browser showed how it could look, with security sliders and options for 'advanced users'.
 * Firefox now stores site data in a `storage` folder in the profile, yet has no way for the user to delete this data.  Never store data across sessions without having functionality for the user to delete this data.
 * Unlike competing browsers, the [64-bit version of Firefox uses *massively* more RAM than the 32-bit version](http://www.ghacks.net/2016/01/03/32-bit-vs-64-bit-browsers-which-version-has-the-edge/).  Fix this.
+* Running multiple instances of plugin apps heavily slows down web page downloading
+
+
+What is good?
+
+* That we [not need Google anymore](http://www.cnet.com/news/firefox-maker-mozilla-we-dont-need-googles-money-anymore/)
+* The theming/customization ability 
+* Entire tweak stuff (aka about:config) 
+* Extensions interface
+* The Tab-System is pretty good, especially for beginners
+* Generally fast web page downloads (compared to other Browsers)
+* Private browsing allows user to surf the internet without recording history or cookies (partial)
+* Security, several mechanism are added (but still not as good as it could be)
+* Developer friendly platform
+* Integrated 'Reader Mode' for .pdf files
+* Password management and the ability to sync (you also can set-up your own sync sever)
+* Mostly all standards are supported, such as JavaScript, HTML (HTML5), MathML, PNG, SVG, XHTML, and XML,...
+
 
 
 ## Contributions
