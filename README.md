@@ -28,7 +28,7 @@ The goal of this project is to create a community based wish list (which can als
 * [Give us back the control](https://www.eff.org/deeplinks/2016/04/save-firefox) over the browser and keep it clean and slim as much as possible (also less RAM usage then).
 * Give us a setup which allow us to opt-in only the stuff we want and not pre-install anything (like the 'Hello' and 'Pockets' clients).
 * Bloat like Pocket has been added. To our knowledge, this is a third-party extension that has been added and uses non-Mozilla servers to store data. Things like this should be left as extensions.
-* Exclude any DRM (Codecs, Encrypted Media Extensions, etc.), or make it integrated opt-in for people which really need it; ESR is the wrong way, make ONE Browser for all.
+* ~~Exclude any DRM (Codecs, Encrypted Media Extensions, etc.), or make it integrated opt-in for people which really need it; ESR is the wrong way, make ONE Browser for all.~~
 * Google's 'safebrowsing' mechanism is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
 * Google's 'safebrowsing' mechanism creates cookies on everyone's system.  Mozilla claims these cookies are separate, but the UI makes no indication of this.
 * No ability to sync all about:config tweaks (you need extra opt-in for that).
