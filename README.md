@@ -20,7 +20,7 @@ The goal of this project is to create a community based wish list (which can als
 
 * Firefox is about to become an almost complete copy of Chrome (we not need another fork of it!).
 * Why use Firefox over Chrome? Mozilla would probably argue that Firefox is unique because it’s made by a non-profit company dedicated to making the web better, rather than big for-profit corporations with their own agendas. It also uses Gecko, a different rendering engine, which hopefully helps preserve web standards through a variety of implementations. But is that really enough?
-* Multi-Process + Sandboxed Firefox still unfinished and buggy (previously promised to be included in FF 46, but not done because of 'bugs' -- how many years more do we need to wait?).
+* ~~Multi-Process + Sandboxed Firefox still unfinished and buggy (previously promised to be included in FF 46, but not done because of 'bugs' -- how many years more do we need to wait?).~~ since Firefox 49
 * Firefox needs a distinct identity.
 * Don't kill the engine or the theming ability.
 * WebExtensions will replace Firefox’s powerful extension framework; why not add a workaround for both?
@@ -28,7 +28,7 @@ The goal of this project is to create a community based wish list (which can als
 * [Give us back the control](https://www.eff.org/deeplinks/2016/04/save-firefox) over the browser and keep it clean and slim as much as possible (also less RAM usage then).
 * Give us a setup which allow us to opt-in only the stuff we want and not pre-install anything (like the 'Hello' and 'Pockets' clients).
 * Bloat like Pocket has been added. To our knowledge, this is a third-party extension that has been added and uses non-Mozilla servers to store data. Things like this should be left as extensions.
-* ~~Exclude any DRM (Codecs, Encrypted Media Extensions, etc.), or make it integrated opt-in for people which really need it; ESR is the wrong way, make ONE Browser for all.~~
+* ~~Exclude any DRM (Codecs, Encrypted Media Extensions, etc.), or make it integrated opt-in for people which really need it; ESR is the wrong way, make ONE Browser for all.~~ since Firefox 47
 * Google's 'safebrowsing' mechanism is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
 * Google's 'safebrowsing' mechanism creates cookies on everyone's system.  Mozilla claims these cookies are separate, but the UI makes no indication of this.
 * No ability to sync all about:config tweaks (you need extra opt-in for that).
