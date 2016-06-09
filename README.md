@@ -29,8 +29,8 @@ The goal of this project is to create a community based wish list (which can als
 * Give us a setup which allow us to opt-in only the stuff we want and not pre-install anything (like the 'Hello' and 'Pockets' clients).
 * Bloat like Pocket has been added. To our knowledge, this is a third-party extension that has been added and uses non-Mozilla servers to store data. Things like this should be left as extensions.
 * ~~Exclude any DRM (Codecs, Encrypted Media Extensions, etc.), or make it integrated opt-in for people which really need it; ESR is the wrong way, make ONE Browser for all.~~ since Firefox 47
-* Google's 'safebrowsing' mechanism is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
-* Google's 'safebrowsing' mechanism creates cookies on everyone's system.  Mozilla claims these cookies are separate, but the UI makes no indication of this.
+* Google's 'safe-browsing' mechanism is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
+* Google's 'safe-browsing' mechanism creates cookies on everyone's system.  Mozilla claims these cookies are separate, but the UI makes no indication of this.
 * No ability to sync all about:config tweaks (you need extra opt-in for that).
 * Ability to reset about:config related changes on per-app/extension basis.
 * Increase the security and adapt faster changes, especially to known reported issue like certificate frauds.
@@ -39,7 +39,7 @@ The goal of this project is to create a community based wish list (which can als
 * NoScript / uMatrix or uBlock's function could be adopted (or ask/work directly with the developers) to implement it directly since all of the extensions are today 'a must'. Tor Browser showed how it could look, with security sliders and options for 'advanced users'.
 * Firefox now stores site data in a `storage` folder in the profile, yet has no way for the user to delete this data.  Never store data across sessions without having functionality for the user to delete this data.
 * Unlike competing browsers, the [64-bit version of Firefox uses *massively* more RAM than the 32-bit version](http://www.ghacks.net/2016/01/03/32-bit-vs-64-bit-browsers-which-version-has-the-edge/).  Fix this.
-* Full support for DirectX 11/12 on Windows to take advantage of graphics acceleration.
+* Full support for DirectX 11/12/Vulkan on Windows to take advantage of graphics acceleration.
 * Full support for HTTP/2.
 * Support for MSE/DASH video streaming and more advanced handling of media files.
 * Bring back XUL/XBL as our main UI and interface language and find a workaround so that extensions with binary (XPCOM) components can co-exist with WebExtensions.
@@ -55,7 +55,7 @@ The goal of this project is to create a community based wish list (which can als
 * Generally fast web page downloads (compared to other Browsers)
 * Private browsing allows user to surf the internet without recording history or cookies (partial)
 * Security, several mechanism are added (but still not as good as it could be)
-* It's a developer friendly platform ( Jetpack/SDK extensions) around the Browser, Extensions and eMail-program
+* It's a developer friendly platform (Jetpack/SDK extensions) around the Browser, Extensions and eMail-program
 * Integrated 'Reader Mode' for .pdf files
 * Password management and the ability to sync (you also can set-up your own sync sever)
 * Mostly all standards are supported, such as JavaScript, HTML (HTML5), MathML, PNG, SVG, XHTML, and XML,...
