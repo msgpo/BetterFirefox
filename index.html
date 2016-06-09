@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Betterfirefox by CHEF-KOCH</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/CHEF-KOCH/BetterFirefox">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/CHEF-KOCH/BetterFirefox/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/CHEF-KOCH/BetterFirefox/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>Betterfirefox</h1>
+          <p>Make Mozilla Firefox great again (beta project for now ... far away from final) :rocket: </p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/CHEF-KOCH">CHEF-KOCH</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
+
+        <h1>
+<a id="betterfirefox" class="anchor" href="#betterfirefox" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>BetterFirefox</h1>
+
+<p>The goal of this project is to create a community based wish list (which can also be used as a communication platform) to get Mozilla Firefox again on the right course. Mozilla can use this to <strong><em>improve their own product</em></strong>; it is up to them to work with us or not.</p>
+
+<p><a href="https://travis-ci.org/BetterFireFox"><img src="https://travis-ci.org/CHEF-KOCH/BetterFireFox.svg?branch=master" alt="Build Status"></a>
+<a href="https://gitter.im/CHEF-KOCH/BetterFireFox?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/CHEF-KOCH/BetterFireFox.svg" alt="Gitter"></a></p>
+
+<h2>
+<a id="contents" class="anchor" href="#contents" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contents</h2>
+
+<ul>
+<li>Overview and goal (this page)
+
+<ul>
+<li>Gh-GitHub page and overview</li>
+</ul>
+</li>
+<li>
+<a href="Why%20Firefox.md">Why you should use Firefox?</a>
+
+<ul>
+<li>Short explanation for beginners on why you should give Firefox a try</li>
+</ul>
+</li>
+<li>Wish-list (todo)
+
+<ul>
+<li>User based wish-list of how Firefox can improve</li>
+</ul>
+</li>
+</ul>
+
+<h2>
+<a id="what-is-wrong-with-firefox" class="anchor" href="#what-is-wrong-with-firefox" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>What is wrong with Firefox?</h2>
+
+<ul>
+<li>Firefox is about to become an almost complete copy of Chrome (we not need another fork of it!).</li>
+<li>Why use Firefox over Chrome? Mozilla would probably argue that Firefox is unique because it’s made by a non-profit company dedicated to making the web better, rather than big for-profit corporations with their own agendas. It also uses Gecko, a different rendering engine, which hopefully helps preserve web standards through a variety of implementations. But is that really enough?</li>
+<li>
+<del>Multi-Process + Sandboxed Firefox still unfinished and buggy (previously promised to be included in FF 46, but not done because of 'bugs' -- how many years more do we need to wait?).</del> since Firefox 49</li>
+<li>Firefox needs a distinct identity.</li>
+<li>Don't kill the engine or the theming ability.</li>
+<li>WebExtensions will replace Firefox’s powerful extension framework; why not add a workaround for both?</li>
+<li>The default search-engine is horrible and (if Google) is actually based on a competitor, also a web browser maker <a href="Why%20not%20DuckDuckGo?"> </a><a href="https://duckduckgo.com/?q=mozilla+search+engine+money">that actually pays for its inclusion</a> </li>
+<li>
+<a href="https://www.eff.org/deeplinks/2016/04/save-firefox">Give us back the control</a> over the browser and keep it clean and slim as much as possible (also less RAM usage then).</li>
+<li>Give us a setup which allow us to opt-in only the stuff we want and not pre-install anything (like the 'Hello' and 'Pockets' clients).</li>
+<li>Bloat like Pocket has been added. To our knowledge, this is a third-party extension that has been added and uses non-Mozilla servers to store data. Things like this should be left as extensions.</li>
+<li>
+<del>Exclude any DRM (Codecs, Encrypted Media Extensions, etc.), or make it integrated opt-in for people which really need it; ESR is the wrong way, make ONE Browser for all.</del> since Firefox 47</li>
+<li>Google's 'safe-browsing' mechanism is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, <a href="https://en.wikipedia.org/wiki/Firefox#Criticism">some user not want to support this</a>. </li>
+<li>Google's 'safe-browsing' mechanism creates cookies on everyone's system.  Mozilla claims these cookies are separate, but the UI makes no indication of this.</li>
+<li>No ability to sync all about:config tweaks (you need extra opt-in for that).</li>
+<li>Ability to reset about:config related changes on per-app/extension basis.</li>
+<li>Increase the security and adapt faster changes, especially to known reported issue like certificate frauds.</li>
+<li>Fix <a href="https://www.mozilla.org/en-US/security/known-vulnerabilities/">known vulnerabilities</a> much faster (asap [if possible]).</li>
+<li>Let Flash/Silverlight/Java go away once and for all... no need to add workarounds... it's waste of time to think that you can 'by-design' harden these things.</li>
+<li>NoScript / uMatrix or uBlock's function could be adopted (or ask/work directly with the developers) to implement it directly since all of the extensions are today 'a must'. Tor Browser showed how it could look, with security sliders and options for 'advanced users'.</li>
+<li>Firefox now stores site data in a <code>storage</code> folder in the profile, yet has no way for the user to delete this data.  Never store data across sessions without having functionality for the user to delete this data.</li>
+<li>Unlike competing browsers, the <a href="http://www.ghacks.net/2016/01/03/32-bit-vs-64-bit-browsers-which-version-has-the-edge/">64-bit version of Firefox uses <em>massively</em> more RAM than the 32-bit version</a>.  Fix this.</li>
+<li>Full support for DirectX 11/12/Vulkan on Windows to take advantage of graphics acceleration.</li>
+<li>Full support for HTTP/2.</li>
+<li>Support for MSE/DASH video streaming and more advanced handling of media files.</li>
+<li>Bring back XUL/XBL as our main UI and interface language and find a workaround so that extensions with binary (XPCOM) components can co-exist with WebExtensions.</li>
+</ul>
+
+<h2>
+<a id="what-is-good" class="anchor" href="#what-is-good" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>What is good?</h2>
+
+<ul>
+<li>That we <a href="http://www.cnet.com/news/firefox-maker-mozilla-we-dont-need-googles-money-anymore/">not need Google anymore</a>
+</li>
+<li>The theming/customization ability </li>
+<li>Entire tweaking stuff (aka about:config) </li>
+<li>The current extensions interface</li>
+<li>The Tab-System is pretty good, especially for beginners easy to use</li>
+<li>Generally fast web page downloads (compared to other Browsers)</li>
+<li>Private browsing allows user to surf the internet without recording history or cookies (partial)</li>
+<li>Security, several mechanism are added (but still not as good as it could be)</li>
+<li>It's a developer friendly platform (Jetpack/SDK extensions) around the Browser, Extensions and eMail-program</li>
+<li>Integrated 'Reader Mode' for .pdf files</li>
+<li>Password management and the ability to sync (you also can set-up your own sync sever)</li>
+<li>Mostly all standards are supported, such as JavaScript, HTML (HTML5), MathML, PNG, SVG, XHTML, and XML,...</li>
+<li>Supports XP</li>
+</ul>
+
+<h2>
+<a id="contributions" class="anchor" href="#contributions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributions</h2>
+
+<p>If you have anything to fix or details to add, first <a href="https://github.com/CHEF-KOCH/BetterFireFox/issues">file an issue</a> on GitHub to see if it is likely to be accepted, then file a pull request with your change (one Pull Request per issue).</p>
+
+<p>This is not intended to be an open wiki (more overview page), 'we' (the community) want to keep it concise and minimal, but will accept fixes and suitable additions.</p>
+
+<p>See our <a href="CONTRIBUTING.md">contributing policy</a>.</p>
+
+<h2>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h2>
+
+<p>Unless otherwise specified, everything in this repository is covered by the following license:</p>
+
+<p><a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons Attribution-ShareAlike 4.0 International"></a></p>
+
+<p>This project not is an official Mozilla page nor does it have relationship with it.  It is designed for and by the community.</p>
+      </section>
+
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
