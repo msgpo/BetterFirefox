@@ -50,7 +50,7 @@ The goal of this project is to create a community based wish list (which can als
 * That we [not need Google anymore](http://www.cnet.com/news/firefox-maker-mozilla-we-dont-need-googles-money-anymore/)
 * The theming/customization ability 
 * Entire tweaking stuff (aka about:config) 
-* The current extensions interface
+* The [current extensions interface](http://www.ghacks.net/2016/06/09/why-firefox-will-continue-to-lose-market-share/)
 * The Tab-System is pretty good, especially for beginners easy to use
 * Generally fast web page downloads (compared to other Browsers)
 * Private browsing allows user to surf the internet without recording history or cookies (partial)
@@ -59,7 +59,7 @@ The goal of this project is to create a community based wish list (which can als
 * Integrated 'Reader Mode' for .pdf files
 * Password management and the ability to sync (you also can set-up your own sync sever)
 * Mostly all standards are supported, such as JavaScript, HTML (HTML5), MathML, PNG, SVG, XHTML, and XML,...
-* Supports XP
+* Still Supports Microsoft Windows XP and theoretically even older systems (backward compatibility) while Chrome not supports it
 
 
 ## Contributions
