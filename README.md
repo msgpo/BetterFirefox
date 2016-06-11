@@ -18,8 +18,7 @@ The goal of this project is to create a community based wish list (which can als
 
 ## What is wrong with Firefox?
 
-* Firefox is about to become an almost complete copy of Chrome (we not need another fork of it!).
-* Why use Firefox over Chrome? Mozilla would probably argue that Firefox is unique because it’s made by a non-profit company dedicated to making the web better, rather than big for-profit corporations with their own agendas. It also uses Gecko, a different rendering engine, which hopefully helps preserve web standards through a variety of implementations. But is that really enough?
+* Why use Firefox over Chrome, we not want another fork of it! Mozilla would probably argue that Firefox is unique because it’s made by a non-profit company dedicated to making the web better, rather than big for-profit corporations with their own agendas. It also uses Gecko, a different rendering engine, which hopefully helps preserve web standards through a variety of implementations. But is that really enough?
 * ~~Multi-Process + Sandboxed Firefox still unfinished and buggy (previously promised to be included in FF 46, but not done because of 'bugs' -- how many years more do we need to wait?).~~ since Firefox 49
 * Firefox needs a distinct identity.
 * Don't kill the engine or the theming ability.
