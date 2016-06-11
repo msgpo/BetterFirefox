@@ -34,7 +34,7 @@ The goal of this project is to create a community based wish list (which can als
 * No ability to sync all about:config tweaks (you need extra opt-in for that).
 * Ability to reset about:config related changes on per-app/extension basis.
 * [Increase the security](https://it.slashdot.org/story/16/02/12/034206/pwn2own-2016-wont-attack-firefox-because-its-too-easy) and adapt faster changes, especially to known reported issue like certificate frauds.
-* Fix [known vulnerabilities](https://www.mozilla.org/en-US/security/known-vulnerabilities/) much faster (asap [if possible]).
+* Fix [known vulnerabilities](https://www.mozilla.org/en-US/security/known-vulnerabilities/) much faster (asap [if possible]). Or have [sponsorship programs](https://blog.mozilla.org/blog/2016/06/09/help-make-open-source-secure/) so that others find/fix them.
 * Let Flash/Silverlight/Java go away once and for all... no need to add workarounds... it's waste of time to think that you can 'by-design' harden these things.
 * NoScript / uMatrix or uBlock's function could be adopted (or ask/work directly with the developers) to implement it directly since all of the extensions are today 'a must'. Tor Browser showed how it could look, with security sliders and options for 'advanced users'.
 * Firefox now stores site data in a `storage` folder in the profile, yet has no way for the user to delete this data.  Never store data across sessions without having functionality for the user to delete this data.
