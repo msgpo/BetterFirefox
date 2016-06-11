@@ -9,7 +9,7 @@ The goal of this project is to create a community based wish list (which can als
 ## Contents
 
 - Overview and goal (this page)
-    - Gh-GitHub page and overview
+    - [Gh-GitHub page and project overview](https://chef-koch.github.io/BetterFirefox)
 - [Why you should use Firefox?](Why Firefox.md)
     - Short explanation for beginners on why you should give Firefox a try
 - Wish-list (todo)
