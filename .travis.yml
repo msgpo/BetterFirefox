@@ -1,7 +1,11 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
- - rbx
-# uncomment this line if your project needs to run something other than `rake`:
-# script: bundle exec rspec spec
+language: smalltalk
+sudo: false
+
+# Select operating system(s)
+os:
+  - linux
+  - windows
+  - osx
+
+# Select compatible Smalltalk image(s)
+smalltalk:
