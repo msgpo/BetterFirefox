@@ -8,12 +8,10 @@ The goal of this project is to create a community based wish list (which can als
 
 ## Contents
 
-- Overview and goal (this page)
+- Overview, contributions, license and goal (this page)
     - [Gh-GitHub page and project overview](https://chef-koch.github.io/BetterFirefox)
 - [Why you should use Firefox?](Why Firefox.md)
     - Short explanation for beginners on why you should give Firefox a try
-- Wish-list (todo)
-    - User based wish-list of how Firefox can improve
 
 
 ## What is wrong with Firefox?
@@ -44,7 +42,7 @@ The goal of this project is to create a community based wish list (which can als
 * Bring back XUL/XBL as our main UI and interface language and find a workaround so that extensions with binary (XPCOM) components can co-exist with WebExtensions.
 
 
-## What is good?
+## What is currently good?
 
 * That we [not need Google anymore](http://www.cnet.com/news/firefox-maker-mozilla-we-dont-need-googles-money-anymore/)
 * The theming/customization ability 
