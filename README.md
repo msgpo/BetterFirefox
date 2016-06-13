@@ -42,6 +42,7 @@ The goal of this project is to create a community based wish list (which can als
 * Full support for HTTP/2.
 * Support for MSE/DASH video streaming and more advanced handling of media files.
 * Bring back XUL/XBL as our main UI and interface language and find a workaround so that extensions with binary (XPCOM) components can co-exist with WebExtensions.
+* 'Full sync' not only partial. Some addons/configs create own entries and they not getting synced as long you not explictiy opt-in + FF should get an option to backup/restore the default prefs based on browser version. 
 
 
 ## What is currently good?
