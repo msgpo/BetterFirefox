@@ -1,5 +1,7 @@
 # BetterFirefox
 
+![BetterFirefox Mascott](http://i.imgur.com/fnVhC6S.png)
+
 The goal of this project is to create a community based wish list (which can also be used as a communication platform) to get Mozilla Firefox again on the right course. Mozilla can use this to ***improve their own product***; it is up to them to work with us or not.
 
 [![Build Status](https://travis-ci.org/CHEF-KOCH/BetterFireFox.svg?branch=master)](https://travis-ci.org/BetterFireFox)
