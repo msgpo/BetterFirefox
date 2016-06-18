@@ -47,6 +47,7 @@ The goal of this project is to create a community based wish list (which can als
 
 ## What is currently good?
 
+* Security tests such as [seperated and isolated online identities](http://www.techtimes.com/articles/165830/20160618/mozilla-tests-firefox-containers-for-separate-online-identities.htm).
 * That we [not need Google anymore](http://www.cnet.com/news/firefox-maker-mozilla-we-dont-need-googles-money-anymore/)
 * The theming/customization ability 
 * Entire tweaking stuff (aka about:config) 
