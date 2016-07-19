@@ -61,6 +61,7 @@ The goal of this project is to create a community based wish list (which can als
 * Password management and the ability to sync (you also can set-up your own sync sever)
 * Mostly all standards are supported, such as JavaScript, HTML (HTML5), MathML, PNG, SVG, XHTML, and XML,...
 * Still Supports Microsoft Windows XP and theoretically even older systems (backward compatibility) while Chrome not supports it
+* [An official roadmap](https://wiki.mozilla.org/Firefox/Roadmap) is avaible, whish shows upcoming changes. 
 
 
 ## Contributions
