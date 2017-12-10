@@ -19,41 +19,32 @@ The goal of this project is to create a community based wish list (which can als
 
 ## What is wrong with Firefox?
 
-* Why use Firefox over Chrome, we not want another fork of it! Mozilla would probably argue that Firefox is unique because it’s made by a non-profit company dedicated to making the web better, rather than big for-profit corporations with their own agendas. It also uses Gecko, a different rendering engine, which hopefully helps preserve web standards through a variety of implementations. But is that really enough?
-* ~~Multi-Process + Sandboxed Firefox still unfinished and buggy (previously promised to be included in FF 46, but not done because of 'bugs' -- how many years more do we need to wait?).~~ **since Firefox 49**
-* Firefox needs a distinct identity.
+* Firefox needs a distinct own identity.
 * Don't kill the engine or the theming ability.
 * WebExtensions will replace Firefox’s powerful extension framework; why not add a workaround for both?
-* The default search-engine is horrible and (if Google) is actually based on a competitor, also a web browser maker [ [that actually pays for its inclusion](https://duckduckgo.com/?q=mozilla+search+engine+money) ] (Why not DuckDuckGo?)
+* The default search-engine is horrible and (if Google) is actually based on a competitor, also a web browser maker [ [that actually pays for its inclusion](https://duckduckgo.com/?q=mozilla+search+engine+money) ] (Why not DuckDuckGo or StartPage?)
 * [Give us back the control](https://www.eff.org/deeplinks/2016/04/save-firefox) over the browser and keep it clean and slim as much as possible (also less RAM usage then).
-* Give us a setup which allow us to opt-in only the stuff we want and not pre-install anything (like the 'Hello' and 'Pockets' clients).
+* Give us a setup which allow us to opt-in in the things we want and stop pre-installing stuff like the 'Hello' and 'Pockets' clients.
 * Bloat like Pocket has been added. To our knowledge, this is a third-party extension that has been added and uses non-Mozilla servers to store data. Things like this should be left as extensions.
-* ~~Exclude any DRM (Codecs, Encrypted Media Extensions, etc.), or make it integrated opt-in for people which really need it; ESR is the wrong way, make ONE Browser for all.~~ **since Firefox 47**
 * Google's 'safe-browsing' mechanism is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
-* Google's 'safe-browsing' mechanism creates cookies on everyone's system.  Mozilla claims these cookies are separate, but the UI makes no indication of this.
+* Google's 'safe-browsing' mechanism creates cookies on everyone's system. Mozilla claims these cookies are separate but the UI makes no indication of this.
 * No ability to sync all about:config tweaks (you need extra opt-in for that).
 * Ability to reset about:config related changes on per-app/extension basis.
 * [Increase the security](https://it.slashdot.org/story/16/02/12/034206/pwn2own-2016-wont-attack-firefox-because-its-too-easy) and adapt faster changes, especially to known reported issue like certificate frauds.
 * Fix [known vulnerabilities](https://www.mozilla.org/en-US/security/known-vulnerabilities/) much faster (asap [if possible]). Or have [sponsorship programs](https://blog.mozilla.org/blog/2016/06/09/help-make-open-source-secure/) so that others find/fix them.
-* Let [Flash](https://blog.mozilla.org/futurereleases/2016/07/20/reducing-adobe-flash-usage-in-firefox/)/Silverlight/Java go away once and for all... no need to add workarounds... it's waste of time to think that you can 'by-design' harden these things.
 * NoScript / uMatrix or uBlock's function could be adopted (or ask/work directly with the developers) to implement it directly since all of the extensions are today 'a must'. Tor Browser showed how it could look, with security sliders and options for 'advanced users'.
-* Firefox now stores site data in a `storage` folder in the profile, yet has no way for the user to delete this data.  Never store data across sessions without having functionality for the user to delete this data.
-* Unlike competing browsers, the [64-bit version of Firefox uses *massively* more RAM than the 32-bit version](http://www.ghacks.net/2016/01/03/32-bit-vs-64-bit-browsers-which-version-has-the-edge/).  Fix this.
-* Full support for DirectX 11/12/Vulkan on Windows to take advantage of graphics acceleration.
-* Full support for HTTP/2.
-* Support for MSE/DASH video streaming and more advanced handling of media files.
-* Bring back XUL/XBL as our main UI and interface language and find a workaround so that extensions with binary (XPCOM) components can co-exist with WebExtensions.
+* Full support for the Vulkan API on Windows/Linux/MacOS to take advantage of graphics acceleration.
 * 'Full sync' not only partial. Some addons/configs create own entries and they not getting synced as long you not explictiy opt-in + FF should get an option to backup/restore the default prefs based on browser version. 
 
 
-## What is currently good?
+## What is good?
 
 * Security tests such as [seperated and isolated online identities](http://www.techtimes.com/articles/165830/20160618/mozilla-tests-firefox-containers-for-separate-online-identities.htm).
-* That we [not need Google anymore](http://www.cnet.com/news/firefox-maker-mozilla-we-dont-need-googles-money-anymore/)
+* That Mozilla [not needs Google anymore](http://www.cnet.com/news/firefox-maker-mozilla-we-dont-need-googles-money-anymore/)
 * The theming/customization ability 
-* Entire tweaking stuff (aka about:config) 
+* Entire tweaking stuff (aka about:config)
 * The [current extensions interface](http://www.ghacks.net/2016/06/09/why-firefox-will-continue-to-lose-market-share/)
-* The Tab-System is pretty good, especially for beginners easy to use
+* The Tab-System is pretty good and easy to use - especially for beginners
 * Generally fast web page downloads (compared to other Browsers)
 * Private browsing allows user to surf the internet without recording history or cookies (partial)
 * Security, several mechanism are added (but still not as good as it could be)
@@ -62,7 +53,14 @@ The goal of this project is to create a community based wish list (which can als
 * Password management and the ability to sync (you also can set-up your own sync sever)
 * Mostly all standards are supported, such as JavaScript, HTML (HTML5), MathML, PNG, SVG, XHTML, and XML,...
 * Still Supports Microsoft Windows XP and theoretically even older systems (backward compatibility) while Chrome not supports it
-* [An official roadmap](https://wiki.mozilla.org/Firefox/Roadmap) is avaible, whish shows upcoming changes. 
+* [An official roadmap](https://wiki.mozilla.org/Firefox/Roadmap) is avaible, whish shows upcoming changes.
+* Full support for HTTP/2 and TLS 1.3.
+
+
+## Firefox vs. Chrome 
+
+* Why use Firefox over Chrome, we didn't want another fork! Mozilla would probably argue that Firefox is unique because it’s made by a non-profit company dedicated to making the web better, rather than big for-profit corporations with their own agendas. It also uses Gecko, a different rendering engine, which hopefully helps preserve web standards through a variety of implementations.
+
 
 
 ## Contributions
