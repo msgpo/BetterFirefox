@@ -8,8 +8,9 @@ Project on hold!
 
 The goal of this project is to create a community based wish list (which can also be used as a communication platform) to get Mozilla Firefox again on the right course. Mozilla can use this to ***improve their own product***; it is up to them to work with us or not.
 
-[![Build Status](https://travis-ci.org/CHEF-KOCH/BetterFireFox.svg?branch=master)](https://travis-ci.org/BetterFireFox)
-[![Gitter](https://badges.gitter.im/CHEF-KOCH/BetterFireFox.svg)](https://gitter.im/CHEF-KOCH/BetterFireFox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
+[![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
 
 
 ## Contents
