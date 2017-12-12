@@ -2,14 +2,14 @@
 
 # BetterFirefox
 
-The goal of this project is to create a community based wishlist - which can also be used as a communication platform to get Mozilla Firefox again on the right course. Mozilla can use this to ***improve their own product***; it is up to them to work with. We would like to hear more from the Mozilla team!
+The goal for this community based project is to create wishlist - which can also be used as a communication platform to get Mozilla Firefox again on the right course. Mozilla can use this to ***improve their own product***; it is up to them to work with. We would like to hear more from the Mozilla Team!
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 [![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
 
 
-## Contents
+## Content
 
 - Overview, contributions, license and goal (this page)
     - [Gh-GitHub page and project overview](https://chef-koch.github.io/BetterFirefox)
