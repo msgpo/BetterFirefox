@@ -3,8 +3,7 @@
 * Or maybe replace travis with [Jekyll](https://github.com/jekyll/jekyll)?
 * More content for the 'front-page' + explanations as detailed as possible 
 * Once we got real content may introduce the gh-page 
-* Maybe online chat ?
-* Maybe Wiki ?
-* Community based wishes .... 
+* Maybe a Wiki?
+* Community submitted wishes... 
 * Add fancy graphics ^^ (low-prio)
-* .... 
+* Organisation donation system 
