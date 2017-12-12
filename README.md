@@ -11,10 +11,16 @@ The goal for this community based project is to create wishlist - which can also
 
 ## Content
 
+- What we're looking for 
 - Overview, contributions, license and goal (this page)
     - [Gh-GitHub page and project overview](https://chef-koch.github.io/BetterFirefox)
 - [Why you should use Firefox?](Why Firefox.md)
     - Short explanation for beginners on why you should give Firefox a try
+
+
+## What we're looking for 
+
+You could help to bring the project a step forward, the community wants you to bring back the best of Firfox. We're looking for people which are graphic artists, in marketing or just supporters or contributors. Everyone with good ideas are welcome. 
 
 
 ## What is wrong with Firefox?
