@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/qiL2aHP.png" alt="BetterFirefox Meme" /></p>
+<p align="center"><img src="https://i.imgur.com/V2Ugmwk.png" alt="BetterFirefox Meme" /></p>
 
 # BetterFirefox
 
