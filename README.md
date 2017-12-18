@@ -35,7 +35,7 @@ You could help to bring the project a step forward, the community wants you to b
 * Bloat like Pocket has been added. To our knowledge, this is a third-party extension that has been added and uses non-Mozilla servers to store data. Things like this should be left as extensions.
 * Google's 'safe-browsing' mechanism is by default enabled, let the user decide to use it or not, each visited page otherwise will be sent back to Google, [some user not want to support this](https://en.wikipedia.org/wiki/Firefox#Criticism). 
 * Google's 'safe-browsing' mechanism creates cookies on everyone's system. Mozilla claims these cookies are separate but the UI makes no indication of this.
-* No ability to sync all about:config tweaks (you need extra opt-in for that).
+* No ability to sync all about:config tweaks (you need extra opt-in for that) while you get at the same time the ability to search for all modified entries. And description would also be nice, like a popup or link to each entrie and what it does. A filter or colum would also help to mark/show what version the new/old entrie was added/removed.
 * Ability to reset about:config related changes on per-app/extension basis.
 * [Increase the security](https://it.slashdot.org/story/16/02/12/034206/pwn2own-2016-wont-attack-firefox-because-its-too-easy) and adapt faster changes, especially to known reported issue like certificate frauds.
 * Fix [known vulnerabilities](https://www.mozilla.org/en-US/security/known-vulnerabilities/) much faster (asap [if possible]). Or have [sponsorship programs](https://blog.mozilla.org/blog/2016/06/09/help-make-open-source-secure/) so that others find/fix them.
