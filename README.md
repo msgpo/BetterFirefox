@@ -24,7 +24,7 @@ You could help to bring the project a step forward, the community wants you to b
 
 ## What is wrong with Firefox?
 
-* Trust is very important which means Mozilla shouldn't install addons in the background without your permission! ([backstory](https://www.reddit.com/r/firefox/comments/7jh9rv/what_is_looking_glass/))
+* Trust is very important which means Mozilla shouldn't install addons in the background without your permission! ([backstory](https://www.reddit.com/r/firefox/comments/7jh9rv/what_is_looking_glass/)) & ([original issue ticket](https://github.com/mozilla/normandy/issues/741))
 * Firefox needs a distinct own identity.
 * Don't kill the engine or the theming ability.
 * WebExtensions will replace Firefox’s powerful extension framework; why not add a workaround for both?
