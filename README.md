@@ -1,4 +1,6 @@
-<p align="center"><img src="https://i.imgur.com/V2Ugmwk.png" alt="BetterFirefox Meme" /></p>
+<p align="center"><img src="https://github.com/CHEF-KOCH/BetterFirefox/blob/master/logo/Firefox%20Meme%20Thumbnail.png" alt="BetterFirefox Meme" /></p>
+<p align="center"><img src="https://github.com/CHEF-KOCH/BetterFirefox/blob/master/logo/Net%20Neutrality.jpg" alt="Fighting for Net Neutrality" /></p>
+
 
 # BetterFirefox
 
